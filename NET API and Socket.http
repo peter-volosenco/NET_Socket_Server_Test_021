@@ -1,0 +1,6 @@
+@NET_API_and_Socket_HostAddress = http://localhost:5145
+
+GET {{NET_API_and_Socket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
